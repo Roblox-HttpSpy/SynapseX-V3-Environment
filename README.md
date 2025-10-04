@@ -13,5 +13,4 @@ hope you enjoy!
 
 
 [![License: MIT](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/Roblox-HttpSpy/my-Garbage/blob/main/LICENSE)
-
 [![Scripting Language: LUAU](https://img.shields.io/badge/Scripting%20Language%3A-LUAU-blue?style=plastic)](https://github.com/luau-lang/luau)
