@@ -5,11 +5,11 @@ Synapse made Documentation for there V3 (that never got fully released dou to Sy
 
 you can find a saved SynapseX V3 documentation here: https://actualmasteroogway.github.io/synapse-x-documentation/
 
-they had some unique ideas so i decided to script LuaU script that mimics some of there Custom Classes/Functions & methods and so on,
+they had some unique ideas so i decided to script LuaU script that mimics some of SynapseX-V3 API
 
 hope you enjoy!
 
-***(NOTE) this is a imitation of said classes, some of these may not exactly work what is expected, also if you encounter any errors make sure it isnt from your scripting mistake before opening a issue.. also if your a executor developer not recommended to implement this, Atleast recreate it with purely in C or other***
+***(NOTE) this is a imitation of said classes/Api, some of these may not exactly work what is expected, also if you encounter any errors make sure it isnt from your scripting mistake before opening a issue.. also if your a executor developer not recommended to implement this, Atleast recreate it with purely in C or other***
 
 
 [![License: MIT](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/Roblox-HttpSpy/my-Garbage/blob/main/LICENSE)
