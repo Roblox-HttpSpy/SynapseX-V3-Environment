@@ -1,5 +1,6 @@
 --!strict
 
+--// module requires synsignal to be accessible
 export type Timer = {
 	Interval: number,
 	IsRunning: boolean,
@@ -45,4 +46,5 @@ function timer:Restart()
 end
 
 table.freeze(timer)
+
 return timer
