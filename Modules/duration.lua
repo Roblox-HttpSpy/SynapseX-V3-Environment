@@ -100,19 +100,3 @@ end
 
 table.freeze(duration)
 return duration
-
-
---// example script
-local Duration = require(path.to.duration)
-
-local d1 = Duration.FromSeconds(90)
-print("Seconds:", d1.s)
-print("Minutes:", d1.min)
-print("Milliseconds:", d1.ms)
-
-local d2 = Duration.TimeSinceEpoch()
-print("Time since epoch (seconds):", d2.s)
-
-local d3 = Duration.FromHours(2)
-print("Hours:", d3.h)
-print("Seconds in 2 hours:", d3.s)
