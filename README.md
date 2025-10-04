@@ -1,4 +1,4 @@
-# SynapseX-V3-Environment
+# SynapseX-V3-Apis
 Bunch of scripts i made that replicates bunch of [SynapseX](https://en.m.wikipedia.org/wiki/Synapse_X) unreleased V3 functions/Methods in pure [LuaU](https://luau.org/)
 
 Synapse made Documentation for there V3 (that never got fully released dou to Synapse shutting down)
