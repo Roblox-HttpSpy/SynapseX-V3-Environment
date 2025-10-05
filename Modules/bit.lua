@@ -151,4 +151,5 @@ function bit.tobit(value: number)
 	return toSigned32(toUint32(value))
 end
 
-return bit
+
+return table.freeze(bit)
