@@ -78,3 +78,6 @@ function Regex:Escape(str: string): string
 	})
 	return (str:gsub(".", escapes))
 end
+
+table.freeze(Regex)
+return Regex
