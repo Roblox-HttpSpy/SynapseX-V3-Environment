@@ -71,7 +71,7 @@ function getBoundingBox(parts: { [any]: BasePart }, orientation: CFrame?): (CFra
 	return cf, size
 end
 
-return {
+return table.freeze({
 	worldtoscreen = worldToScreen,
 	getboundingbox = getBoundingBox
-}
+})
