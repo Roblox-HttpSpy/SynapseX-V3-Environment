@@ -14,4 +14,5 @@
 [Math](https://actualmasteroogway.github.io/synapse-x-documentation/reference/category/math.html)
 
 [bit](https://actualmasteroogway.github.io/synapse-x-documentation/reference/namespace/bit.html)
+
 more maybe will be coming soon...
