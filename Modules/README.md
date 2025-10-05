@@ -16,3 +16,4 @@
 [bit](https://actualmasteroogway.github.io/synapse-x-documentation/reference/namespace/bit.html)
 
 more maybe will be coming soon...
+also note i didnt 100% make it look like the original i may time to time add my own function but isnt really anything good that completely changes everything, stuff that i feel like Synapse Left Out are were gonna prob add if they didnt shutdown (like SynSignal:Once() and so on)
