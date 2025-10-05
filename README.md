@@ -9,7 +9,7 @@ they had some unique ideas so i decided to script LuaU script that mimics some o
 
 hope you enjoy!
 
-***(NOTE) this is a imitation of said classes/Api, some of these may not exactly work what is expected, also if you encounter any errors make sure it isnt from your scripting mistake before opening a issue.. also if your a executor developer not recommended to implement this, Atleast recreate it with purely in C or other***
+***(NOTE) this is a imitation of said classes/Api, some of these may not exactly work what is expected, also if you encounter any errors make sure it isnt from your scripting mistake before opening a issue..***
 
 
 [![License: MIT](https://img.shields.io/badge/License%3A-MIT-green?style=plastic)](https://github.com/Roblox-HttpSpy/my-Garbage/blob/main/LICENSE)
