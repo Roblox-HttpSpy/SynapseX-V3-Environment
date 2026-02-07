@@ -13,7 +13,9 @@
 
 [Math](https://actualmasteroogway.github.io/synapse-x-documentation/reference/category/math.html)
 
-[bit](https://actualmasteroogway.github.io/synapse-x-documentation/reference/namespace/bit.html)
+[getproperties](https://actualmasteroogway.github.io/synapse-x-documentation/reference/category/reflection.html#getproperties)
+
+[gethiddenproperties](https://actualmasteroogway.github.io/synapse-x-documentation/reference/category/reflection.html#gethiddenproperties)
 
 more maybe will be coming soon...
 also note i didnt 100% make it look like the original i may time to time add my own function but isnt really anything good that completely changes everything, stuff that i feel like Synapse Left Out or were gonna prob add it if they didnt shutdown (like SynSignal:Once() and so on) but feel free to remove them
